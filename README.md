@@ -1,5 +1,5 @@
-# Project-Management-Modul-
-le Modul de La Gestion de Projet
+# Project Management [Modul] 
+le Modul de la Gestion du Projet
 
 ---
 
