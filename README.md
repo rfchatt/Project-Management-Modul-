@@ -7,4 +7,4 @@ le Modul de La Gestion de Projet
 ### Questions
 <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/c38b6a55-ad02-4d84-b214-af053233ba75" /><br>
 ### Solution
-<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/f7f36d54-0536-4888-9442-1d3698b030fa" />
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/064ef62e-7ca9-45f8-97aa-9f55cb2dc7a8" />
