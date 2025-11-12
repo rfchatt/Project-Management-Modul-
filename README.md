@@ -9,5 +9,4 @@
 ### Class Diagram | Practice N-002
 #### Questions
 <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/76c0c096-c071-4cd2-b01a-9325abf3b89f" /><br>
-#### Solution
-<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/3e86c60e-2e10-45b0-85c3-d4e14b11656a" />
+<img width="49%" height="50%" alt="image" src="https://github.com/user-attachments/assets/3e86c60e-2e10-45b0-85c3-d4e14b11656a" />
